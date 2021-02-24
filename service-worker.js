@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kingshifi/precache-manifest.acde58ecfb024ac729d041ec2bdb1ad7.js"
+  "/kingshifi/precache-manifest.3ff3f76d39660c4d28344c33962a70d5.js"
 );
 
 self.addEventListener('message', (event) => {

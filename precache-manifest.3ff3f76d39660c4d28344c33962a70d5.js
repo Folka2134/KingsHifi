@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af17dcab02c142aa446a653bd5c73f73",
+    "revision": "df9ec7682cb4b03aaf95f80541800509",
     "url": "/kingshifi/index.html"
   },
   {
