@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kingshifi/static/css/main.498d002a.chunk.css",
+    "main.js": "/kingshifi/static/js/main.60b26fbc.chunk.js",
+    "main.js.map": "/kingshifi/static/js/main.60b26fbc.chunk.js.map",
+    "runtime-main.js": "/kingshifi/static/js/runtime-main.fcd0a054.js",
+    "runtime-main.js.map": "/kingshifi/static/js/runtime-main.fcd0a054.js.map",
+    "static/js/2.6e24812d.chunk.js": "/kingshifi/static/js/2.6e24812d.chunk.js",
+    "static/js/2.6e24812d.chunk.js.map": "/kingshifi/static/js/2.6e24812d.chunk.js.map",
+    "index.html": "/kingshifi/index.html",
+    "precache-manifest.ab87f0b0a7dbf2e7602ebd6a4f209772.js": "/kingshifi/precache-manifest.ab87f0b0a7dbf2e7602ebd6a4f209772.js",
+    "service-worker.js": "/kingshifi/service-worker.js",
+    "static/css/main.498d002a.chunk.css.map": "/kingshifi/static/css/main.498d002a.chunk.css.map",
+    "static/js/2.6e24812d.chunk.js.LICENSE.txt": "/kingshifi/static/js/2.6e24812d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcd0a054.js",
+    "static/js/2.6e24812d.chunk.js",
+    "static/css/main.498d002a.chunk.css",
+    "static/js/main.60b26fbc.chunk.js"
+  ]
+}
